@@ -13,6 +13,9 @@ h1, h2 {
     color: #87CEEB;
 }
 
+/* Styles for sections and table cells:
+   - Sections have a margin, padding, border, rounded corners, and a subtle shadow.
+   - Table headers (th) and data cells (td) have a solid border for clear separation. */
 section {
     margin-bottom: 20px;
     padding: 20px;
